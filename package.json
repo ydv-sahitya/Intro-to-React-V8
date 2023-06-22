@@ -1,0 +1,23 @@
+{
+  "name": "completeintrotoreact_veight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydv-sahitya/Intro-to-React-V8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ydv-sahitya/Intro-to-React-V8/issues"
+  },
+  "homepage": "https://github.com/ydv-sahitya/Intro-to-React-V8#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
